@@ -1,6 +1,7 @@
 ##Narrative
 
 _**As a non-WADS user:**_
+
 Has access to: 
 **public view**
 - homepage & navigation bar 
@@ -13,7 +14,7 @@ Has access to:
 
 _**As a non-maintainer WADS user:**_
 Has access to: 
-**public view**
+public view
 - homepage & navigation bar 
   - link to cards page
   - and any other pages
@@ -21,7 +22,8 @@ Has access to:
   - cards are interactive and user can click on different tabs in the baseball card to bring up different pages
   - user can zoom if needed
 - login page 
-**private view**
+
+private view
 - access to user's own card
   - can edit name, position, pic, etc (any detail on the card)
   - can save as a draft OR preview and upload 
